@@ -29,7 +29,7 @@
     <img src="./assets/readme/information-svgrepo-com.svg" width="15" height="15">
   </summary>
 
-  Place all your images in folder `images`.
+  Place all images in folder `images`.
 </details>
 
 ### Website structure
@@ -97,3 +97,6 @@ https://about.gitlab.com/handbook/markdown-guide/
 
 https://placehold.co/ 
 
+## Copyright
+
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
