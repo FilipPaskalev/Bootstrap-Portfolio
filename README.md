@@ -41,9 +41,7 @@
 ```
 
 <details>
-  <summary markdown="span">
-    ❗<b>Note</b>
-  </summary>
+  <summary markdown="span"><b>Note</b>💡</summary>
 
   Place all images in folder `images`.
 </details>
@@ -83,6 +81,7 @@ Using Bootstrap, recreate your portfolio site. The website should include the fo
 #### Footer section.
 
 1️⃣ All hyperlinks should have a hover effect.
+
 2️⃣ All buttons should display a box shadow upon hover.
 
 ## Technical Acceptance Criteria
@@ -108,15 +107,13 @@ Using Bootstrap, recreate your portfolio site. The website should include the fo
 
 ## Resources
 
-https://www.w3schools.io/file/markdown-folder-tree/
+[www.w3schools.io - Markdown tree view](https://www.w3schools.io/file/markdown-folder-tree/)
 
-https://www.markdownguide.org/basic-syntax/
+[www.markdownguide.org - Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
 
-https://about.gitlab.com/handbook/markdown-guide/
+[www.placehold.co - online tool for placeholder](https://placehold.co/)
 
-https://placehold.co/ 
-
-https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia
+[www.dev.to - Markdown emoji](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia)
 
 ## License
 
