@@ -28,9 +28,9 @@
 
 ### Project structure
 
-1️⃣ GitHub repositories with name `Bootstrap-Portfolio`. 
+1️⃣ GitHub repository with name `Bootstrap-Portfolio`. 
 
-2️⃣ Inside your `Bootstrap-Portfolio` repo, folder with structure for the webpage.
+2️⃣ Inside your `Bootstrap-Portfolio` repo, a folder with structure for the webpage.
 
 ```bash
 ├── Bootstrap-Portfolio
@@ -50,23 +50,23 @@
 
 ### Webpage
 
-Using Bootstrap, recreate your portfolio site.The website should include the following bootstrap components:
+Using Bootstrap, recreate your portfolio site. The website should include the following bootstrap components:
 
 #### Navigation bar
 
-1️⃣ Navigation menu at the top. Feel free to use the navbar code provided in [Bootstrap's documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/), or create your own navbar by applying the correct Bootstrap classes to your HTML.
+1️⃣ Navigation menu at the top. Feel free to use the navbar code provided in [Bootstrap's documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/), or create your navbar by applying the correct Bootstrap classes to your HTML.
 
-2️⃣ Include links that are applicable to your portfolio.
+2️⃣ Include links that apply to your portfolio.
 
 3️⃣ Links should navigate to the appropriate sections. 
 
 #### Hero section
 
-1️⃣ A jumbotron featuring your picture, your name, and any other information you'd like to include.
+1️⃣ A jumbotron featuring your picture, your name, and any other information you want to include.
 
 #### Work section
 
-1️⃣ Section displaying your work in grid. 
+1️⃣ Section displaying your work in a grid. 
 
 2️⃣ Use bootstrap cards for each project.
 - The description should give a brief overview of the work.
@@ -96,7 +96,7 @@ Using Bootstrap, recreate your portfolio site.The website should include the fol
 
 ### Application Quality
 
-* Application resembles the functionality of their previous portfolio.
+* The application resembles the functionality of their previous portfolio.
 
 ### Repository Quality
 
@@ -104,7 +104,7 @@ Using Bootstrap, recreate your portfolio site.The website should include the fol
 * Repository follows best practices for file structure and naming conventions.
 * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 * Repository contains multiple descriptive commit messages.
-* Repository contains quality readme with description, screenshot, link to deployed application.
+* Repository contains quality readme with description, screenshot, and link to the deployed application.
 
 ## Resources
 
