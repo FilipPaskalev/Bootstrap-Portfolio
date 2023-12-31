@@ -66,6 +66,27 @@ Using Bootstrap, recreate your portfolio site.The website should include the fol
 1. All hyperlinks should have a hover effect.
 2. All buttons should display a box shadow upon hover.
 
+## Technical Acceptance Criteria
+
+### Deployment:
+
+* Application deployed at live URL.
+* Application loads with no errors.
+* Application GitHub URL submitted.
+* GitHub repository contains application code.
+
+### Application Quality:
+
+* Application resembles the functionality of their previous portfolio.
+
+### Repository Quality:
+
+* Repository has a unique name.
+* Repository follows best practices for file structure and naming conventions.
+* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+* Repository contains multiple descriptive commit messages.
+* Repository contains quality readme with description, screenshot, link to deployed application.
+
 ## Resources
 
 https://www.w3schools.io/file/markdown-folder-tree/
