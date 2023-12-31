@@ -1,5 +1,10 @@
 # Portfolio-Bootstrap
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+
 - [Portfolio-Bootstrap](#portfolio-bootstrap)
   - [Description](#description)
   - [Tasks](#tasks)
@@ -114,6 +119,8 @@ Using Bootstrap, recreate your portfolio site. The website should include the fo
 [www.placehold.co - online tool for placeholder](https://placehold.co/)
 
 [www.dev.to - Markdown emoji](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia)
+
+[www.svgrepo.com - free SVG icons](https://www.svgrepo.com/)
 
 ## License
 
