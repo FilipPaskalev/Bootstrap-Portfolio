@@ -21,6 +21,8 @@
     - [Application Quality](#application-quality)
     - [Repository Quality](#repository-quality)
   - [Resources](#resources)
+    - [Explored code - Bootstrap CARDS](#explored-code---bootstrap-cards)
+    - [Jumbotron](#jumbotron)
   - [License](#license)
     - [MIT](#mit)
     - [edX](#edx)
@@ -121,6 +123,19 @@ Using Bootstrap, recreate your portfolio site. The website should include the fo
 [www.dev.to - Markdown emoji](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia)
 
 [www.svgrepo.com - free SVG icons](https://www.svgrepo.com/)
+
+### Explored code - Bootstrap CARDS
+* https://getbootstrap.com/docs/4.3/components/card/#:~:text=A%20card%20is%20a%20flexible,panels%2C%20wells%2C%20and%20thumbnails.
+* https://codepen.io/creativemanner/pen/NWrNWrd
+* https://colorlib.com/wp/bootstrap-cards/
+* https://codepen.io/wisnust10/pen/BKjNNR
+* https://colorlib.com/wp/bootstrap-cards/
+* https://codepen.io/AldoF/pen/LvQaVW
+* https://codepen.io/fernstedt/pen/mxGzor
+
+### Jumbotron
+* https://getbootstrap.com/docs/4.1/components/jumbotron/
+* 
 
 ## License
 
