@@ -153,6 +153,8 @@ Using Bootstrap, recreate your portfolio site. The website should include the fo
 * https://library.livecanvas.com/sections/category/hero/
 * https://dribbble.com/shots/17350235-Portfolio-Hero-Section
 * https://dribbble.com/shots/19408667-Portfolio-Hero-Page
+* https://library.livecanvas.com/sections/image-text/#
+* https://dribbble.com/shots/20753864-kawsar-design
 
 ## License
 
