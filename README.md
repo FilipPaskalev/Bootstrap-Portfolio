@@ -21,10 +21,11 @@
     - [Application Quality](#application-quality)
     - [Repository Quality](#repository-quality)
   - [Resources](#resources)
-    - [Explored code - Bootstrap CARDS](#explored-code---bootstrap-cards)
+    - [Bootstrap CARDS](#bootstrap-cards)
     - [Jumbotron](#jumbotron)
     - [Contact form](#contact-form)
     - [CSS](#css)
+    - [Hero section](#hero-section-1)
   - [License](#license)
     - [MIT](#mit)
     - [edX](#edx)
@@ -126,7 +127,7 @@ Using Bootstrap, recreate your portfolio site. The website should include the fo
 
 [www.svgrepo.com - free SVG icons](https://www.svgrepo.com/)
 
-### Explored code - Bootstrap CARDS
+### Bootstrap CARDS
 * https://getbootstrap.com/docs/4.3/components/card/#:~:text=A%20card%20is%20a%20flexible,panels%2C%20wells%2C%20and%20thumbnails.
 * https://codepen.io/creativemanner/pen/NWrNWrd
 * https://colorlib.com/wp/bootstrap-cards/
@@ -145,7 +146,13 @@ Using Bootstrap, recreate your portfolio site. The website should include the fo
 
 ### CSS
 * https://github.com/necolas/normalize.css/
+* https://getbootstrap.com/docs/3.4/css/
 
+### Hero section
+* https://library.livecanvas.com/sections/hero-with-vertical-social-links/#
+* https://library.livecanvas.com/sections/category/hero/
+* https://dribbble.com/shots/17350235-Portfolio-Hero-Section
+* https://dribbble.com/shots/19408667-Portfolio-Hero-Page
 
 ## License
 
