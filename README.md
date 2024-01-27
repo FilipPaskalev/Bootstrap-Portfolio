@@ -24,6 +24,7 @@
     - [Explored code - Bootstrap CARDS](#explored-code---bootstrap-cards)
     - [Jumbotron](#jumbotron)
     - [Contact form](#contact-form)
+    - [CSS](#css)
   - [License](#license)
     - [MIT](#mit)
     - [edX](#edx)
@@ -140,6 +141,10 @@ Using Bootstrap, recreate your portfolio site. The website should include the fo
 
 ### Contact form
 * https://uicookies.com/bootstrap-contact-form/
+
+
+### CSS
+* https://github.com/necolas/normalize.css/
 
 
 ## License
